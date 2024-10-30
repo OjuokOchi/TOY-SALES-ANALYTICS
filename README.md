@@ -176,8 +176,33 @@ This bar chart provides a clear view of the customers generating the most sales,
 
   ![image](https://github.com/user-attachments/assets/ab9cbf90-a5cc-4a5b-a160-bbe7f111383d)
 
-  The line graph provides a clear visual of how sales were made in the different quarters , this help businesses identify during which periods have high sales and which
-  periods have low sales.
+  The line graph provides a clear visual of how sales were made in the different quarters , this help businesses identify which periods have high sales and which periods 
+  have low sales.From the above line graph , the 4th quarter had the most sales.
+
+
+  - **Sales Count by Status**:
+
+    To understand the status of sales , we did a count of status.
+
+    ![image](https://github.com/user-attachments/assets/7034c4e3-538a-4706-af1a-a6453c6c6b11)
+
+    The bar graph points out clearly that most sales were successfully shipped .We grouped the product and summed up the profit for each product. The bar plot illustrate 
+    the profits, with the products.This plot helps identify the most profitable products.Classic cars and vintage cars being the products with the mos profits respectively. 
+
+      - **Total Discount by Product Line**:
+
+        To analyze the total discount by each product.We grouped the  proudcts and summed the TotalDiscounted for each product.The bar plot shows the total discounts, with 
+        products.Classic cars beieng the product with the highest discounts.Vintage cars, motorcycles and truck buses having an almost similar discounted prices.
+
+         ![image](https://github.com/user-attachments/assets/c7e2e827-6de8-473d-8076-b8d4ffd50d58)
+
+
+
+    
+ 
+
+
+  
 
 
 
