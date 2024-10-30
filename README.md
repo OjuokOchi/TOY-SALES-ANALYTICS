@@ -170,10 +170,14 @@ To identify the customers contributing the most to total sales, we aggregated th
 
 This bar chart provides a clear view of the customers generating the most sales, enabling businesses to focus on key accounts for retention strategies and targeted marketing efforts.
 
-- **Customers with the Most Quantity Ordered**:
+- **Quarterly Sales Trends**:
 
-To analyze customer purchasing behavior, we aggregated the total quantity ordered by each customer.
+  To identify and get insights on how sales performed across the yearly quarters in the three years.
 
-![alt text](images/customers_quantity_ordered.png)
+  ![image](https://github.com/user-attachments/assets/ab9cbf90-a5cc-4a5b-a160-bbe7f111383d)
 
-This bar chart highlights the customers who place the largest orders, providing insights into purchasing patterns that can inform inventory management and sales strategies.
+  The line graph provides a clear visual of how sales were made in the different quarters , this help businesses identify during which periods have high sales and which
+  periods have low sales.
+
+
+
